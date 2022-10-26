@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992132566942",
+    "project_id": "myjectn",
+    "storage_bucket": "myjectn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992132566942:android:5378ba94f5c0362dc1908f",
+        "android_client_info": {
+          "package_name": "com.omninos.auth.testauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992132566942-4ftithlptb6dm4ffadfet3chmq8v92un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOaotaoOFpBlLd49LtSQM3VQsZs2MFnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992132566942-4ftithlptb6dm4ffadfet3chmq8v92un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
